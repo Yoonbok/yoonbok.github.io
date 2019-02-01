@@ -1,0 +1,40 @@
+h1{
+color: red;
+font-size: 90px;
+}
+
+P{
+    color: green;
+}
+
+
+
+h1{
+    color: #b08383;
+    font-size: 90px;
+    font-style: italic;
+    text-align: ceter;
+    text-shadow: 1px 1px black;
+}
+
+img{
+    width: 1000px;
+}
+
+
+body{
+    background-color: grey ;
+    background-image: url(oceanback.jpg);
+}
+body{
+    height: 1000px;
+    width: 100%;
+}
+body{
+    border-style: solid;
+}
+
+
+img {
+    width: 800px;
+}

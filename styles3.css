@@ -1,0 +1,31 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-link {
+    color: #b08383;
+    Font-size: 16px;
+    margin-top: 13px;
+    font-style: italic;
+    text-shadow: 1px 1px gray;
+}
+a.navbar-brand img {
+    width: 100px;
+}
+.jumbotron {
+    background-image: url(main.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    padding-top: 100px;
+}
+
+img {
+    width: 700px;
+}
+
+p {
+    font-size: 18px;
+    color: white;
+}
